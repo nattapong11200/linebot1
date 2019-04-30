@@ -1,2 +1,1 @@
-# linebot1
-linebot
+gem install sinatra
